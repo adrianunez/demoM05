@@ -16,6 +16,8 @@ public class Main {
                 System.out.println("El numero es impar");
             }
             System.out.println("buenos dias makina");
+            System.out.println("Son las 10:20");
+            System.out.print("Es hora de levantarse");
         }
 
     }
