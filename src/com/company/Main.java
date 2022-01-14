@@ -15,6 +15,7 @@ public class Main {
             } else {
                 System.out.println("El numero es impar");
             }
+            System.out.println("buenos dias makina");
         }
 
     }
